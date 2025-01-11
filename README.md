@@ -1,1 +1,1 @@
-# WHI
+# webpack-template
